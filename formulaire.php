@@ -18,8 +18,8 @@
 // ===========================================================================// 
 // ! PARAMETRES A CHANGER AVEC VOS INFOMRATIONS UTILISATEUR		      		  //        
 // ===========================================================================//  
-$login = 'admin'; // nom d'utilisateur du service web (communiqué par email)
-$password = 'cd5urad'; // mot de passe utilisateur service web (communiqué par email)
+$login = ''; // nom d'utilisateur du service web (communiqué par email)
+$password = ''; // mot de passe utilisateur service web (communiqué par email)
 // ===================================	FIN =======================================// 
 $selected = '';
 
